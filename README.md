@@ -31,6 +31,15 @@ Vogliamo trasformare questo agente in un assistente vocale. I punti qui sotto so
 6. **L'avatar** — Come daresti un volto all'agente?
 7. **Labiale ed espressioni** — Come sincronizzi il labiale dell'avatar con la voce e gli dai espressioni coerenti con quello che dice?
 
+## Strumenti
+
+Puoi usare liberamente assistenti AI (ChatGPT, Claude, Copilot…) e qualsiasi ricerca sul web. L'unica condizione è la trasparenza: in fondo al tuo file aggiungi una sezione **"Traccia di lavoro"** con:
+
+- tutte le conversazioni avute con gli assistenti AI, tramite link di condivisione oppure copiando prompt e risposte;
+- le fonti principali che hai consultato.
+
+Ci interessa anche come usi questi strumenti, non solo il risultato finale.
+
 ## Come consegnare
 
 Allo scadere dell'ora, aggiungi la tua proposta come file Markdown in:
