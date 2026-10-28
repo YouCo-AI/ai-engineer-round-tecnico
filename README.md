@@ -7,9 +7,9 @@ Hai **un'ora** a disposizione per fare ricerca e preparare una proposta di desig
 Prendi come riferimento un classico agente con chiamate a tool:
 
 ```
-utente ──testo──▶ modello ──▶ serve un tool?
-                    ▲            │ sì                  │ no
-                    │            ▼                     ▼
+utente ──testo──▶ modello     ──▶     serve un tool?    
+                    ▲          │ sì                    │ no
+                    │          ▼                       ▼
                     └── risultato del tool      risposta finale ──testo──▶ utente
 ```
 
